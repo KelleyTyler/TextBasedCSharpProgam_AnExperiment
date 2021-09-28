@@ -1,0 +1,2 @@
+the outcome of basically attempting to do a warm up for C sharp development, has all of my neurotic and strange design trends.
+
