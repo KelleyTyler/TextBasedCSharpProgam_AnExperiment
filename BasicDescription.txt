@@ -1,2 +1,8 @@
 the outcome of basically attempting to do a warm up for C sharp development, has all of my neurotic and strange design trends.
 
+this was done in Visual Studio 2017, 
+
+I probably should've tried to make this in Unity, howerver I'm not certain that would've helped at all in any significant regard, the basic goal was to have characters ("Entites") that have their own inventories and stats that are capable of engaging in combat scenarios with one another (a scripted sequence in the present version).
+
+
+
